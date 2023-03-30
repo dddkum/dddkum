@@ -20,7 +20,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968968.png" alt="discord-icon" width="100"/>
   </a>
 </div>
-<br/>
 
 ---
 
@@ -34,6 +33,5 @@
   <img src="https://cdn-icons-png.flaticon.com/512/10234/10234555.png" alt="css" width="100"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968550.png" alt="sass" width="100"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="git" width="100"/>
-  <br/>
   
   ---
