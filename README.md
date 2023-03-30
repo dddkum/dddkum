@@ -34,4 +34,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968550.png" alt="sass" width="100"/>
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="git" width="100"/>
   
-  ---
+--- 
+  
+### :fire::fire::fire:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dddkum&theme=dark&background=000000)](https://git.io/streak-stats)
