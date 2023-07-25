@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" style="width:800px;"/>
 </div>
 
-### Hey there! Glad to see you! :love_you_gesture:
-### Take a look at my socials and stack below
-
----
 
 ### :ballot_box_with_check: Socials :
 
