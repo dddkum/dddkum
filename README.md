@@ -3,7 +3,7 @@
 </div>
 
 
-### :ballot_box_with_check: Socials :
+### :ballot_box_with_check: Контакты :
 
 <div id="social-links" align="center">
   <a href="https://vk.com/dddkum">
@@ -16,21 +16,6 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968968.png" alt="discord-icon" width="100"/>
   </a>
 </div>
-
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div id="languages" align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/2352/2352487.png" alt="javascript" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/10221/10221119.png" alt="react" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968326.png" alt="typescript" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/10234/10234664.png" alt="html" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/10234/10234555.png" alt="css" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968550.png" alt="sass" width="100"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" alt="git" width="100"/>
-  
---- 
   
 ### :fire::fire::fire:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dddkum&theme=dark&background=000000)](https://git.io/streak-stats)
