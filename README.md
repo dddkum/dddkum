@@ -16,10 +16,3 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968968.png" alt="discord-icon" width="100"/>
   </a>
 </div>
-  
-### :fire::fire::fire:
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dddkum&theme=dark&background=000000)](https://git.io/streak-stats)
-  <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dddkum&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
