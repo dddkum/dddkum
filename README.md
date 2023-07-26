@@ -3,7 +3,7 @@
 </div>
 
 
-### :ballot_box_with_check: Контакты :
+### Контакты :
 
 <div id="social-links" align="center">
   <a href="https://vk.com/dddkum">
