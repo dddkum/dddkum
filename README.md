@@ -16,3 +16,5 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968968.png" alt="discord-icon" width="100"/>
   </a>
 </div>
+
+![Profile views](https://gpvc.arturio.dev/{dddkum})
