@@ -1,6 +1,3 @@
-![CV](CV.png)
-
-
 ### Контакты :
 
 <div id="social-links" align="center">
